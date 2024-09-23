@@ -1,0 +1,17 @@
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\bin\Debug\net8.0-windows\Semáforo.exe
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\bin\Debug\net8.0-windows\Semáforo.deps.json
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\bin\Debug\net8.0-windows\Semáforo.runtimeconfig.json
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\bin\Debug\net8.0-windows\Semáforo.dll
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\bin\Debug\net8.0-windows\Semáforo.pdb
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.Form1.resources
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.csproj.GenerateResource.cache
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.AssemblyInfoInputs.cache
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.AssemblyInfo.cs
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.dll
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\refint\Semáforo.dll
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.pdb
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.genruntimeconfig.cache
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\ref\Semáforo.dll
+C:\Users\CIDENAI\source\repos\Semáforo\Semáforo\obj\Debug\net8.0-windows\Semáforo.Properties.Resources.resources
